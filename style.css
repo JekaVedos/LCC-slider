@@ -104,7 +104,7 @@ body {
 
 .slide.z:after {
 	content: "";
-	background-image: url("./images/moi_marie_clea_bal_2023-04-20_21-09-25.jpg");
+	background-image: url("./images/summer_marie_bl_2023-04-20_21-24-25.jpg");
 	-webkit-transform: translateZ(100px);
 	transform: translateZ(100px);
 }
