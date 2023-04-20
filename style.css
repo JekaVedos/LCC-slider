@@ -7,11 +7,14 @@ body {
 	color: #fff;
 	font-family: "Open Sans", sans-serif;
 	font-size: 11px;
+    overflow: hidden;
 }
 
 .title {
 	text-align: center;
-	margin: 40px;
+    font-size: 24px;
+	/* margin: 40px; */
+    margin-top: 20px;
 }
 
 .title h1,
